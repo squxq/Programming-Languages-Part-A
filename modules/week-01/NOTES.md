@@ -201,11 +201,11 @@ If you develop some emotional attachment to the transcript of your *sml* buffer,
 
 ## Homework 0
 
-[hw0.pdf](https://github.com/squxq/Programming-Languages-Part-A/blob/week-01/homework/homework-00/hw0.pdf)
+[hw0.pdf](https://github.com/squxq/Programming-Languages-Part-A/blob/week-01/assessments/homework-00/hw0.pdf)
 
-[hw0provided.sml](https://github.com/squxq/Programming-Languages-Part-A/blob/week-01/homework/homework-00/hw0provided.sml)
+[hw0provided.sml](https://github.com/squxq/Programming-Languages-Part-A/blob/week-01/assessments/homework-00/hw0provided.sml)
 
-[hw0test.sml](https://github.com/squxq/Programming-Languages-Part-A/blob/week-01/homework/homework-00/hw0test.sml)
+[hw0test.sml](https://github.com/squxq/Programming-Languages-Part-A/blob/week-01/assessments/homework-00/hw0test.sml)
 
 > The provided function f uses addition where it should use multiplication. In the line defining the
 function f, replace the + with * to fix this bug.
